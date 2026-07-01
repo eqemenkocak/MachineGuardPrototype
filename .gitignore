@@ -1,0 +1,14 @@
+# Sanal ortam
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Zone dosyası (gerekirse kaldırabilirsin)
+zone.npy
+
+# Diğer
+*.log
+.DS_Store
